@@ -1,0 +1,76 @@
+@import url('https://fonts.googleapis.com/css2?family=Baloo+Bhaijaan+2:wght@600&family=Baloo+Tamma+2:wght@800&family=Bebas+Neue&family=Cinzel:wght@500&family=Pacifico&family=Paytone+One&family=Shadows+Into+Light&family=Vollkorn:ital,wght@1,500&display=swap');
+*
+{
+    font-family: 'Baloo Bhaijaan 2', cursive;
+}
+table
+{
+    height:40vh;
+    line-height: 20px;
+    width: 70vw;
+    margin: 60px auto;
+
+}
+.bank
+{
+    position: relative;
+    top:20px;
+    line-height:50px;
+}
+.bank h1
+{
+    color:white;
+margin-left: 400px;
+font-size: 40px;
+line-height: 0px;
+}
+input
+{
+    padding: 10px;
+    width: 300px;
+}
+h1
+{
+    display: inline-block;
+    width: 230 px;
+    color:white;
+}
+::placeholder
+{
+    
+    color: black;
+}
+body
+{
+    font-size: 20px;
+    color: aliceblue;
+    background-image: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)),url("/images/pexels-expect-best-351264.jpg");
+    background-size:cover ;
+
+}
+.option
+{
+    position: relative;
+    left:500px;
+    top:100px;
+    
+}
+.option a
+{
+    width: 250px;
+}
+.bank h1
+{
+    font-size: 30px;
+    text-align: center;
+    
+
+}
+.bank
+{
+    position: absolute;
+    top:60px;
+    font-size: 40px;
+    color: white;
+    
+}
