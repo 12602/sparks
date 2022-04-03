@@ -12,7 +12,7 @@ nav,.container-fluid
 .bank
 {
     color: antiquewhite;
-   background-image: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)),url("/images/pexels-expect-best-351264.jpg");
+   background-image: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)),url("pexels-expect-best-351264.jpg");
    background-size:cover ;
    
     height: 100vh;
